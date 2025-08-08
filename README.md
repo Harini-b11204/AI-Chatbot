@@ -22,8 +22,9 @@ The chatbot uses the nltk.chat.util.Chat class which implements a simple rule-ba
 Each pattern is matched against user input using regular expressions, and a corresponding response is selected.
 
 ### 📂 Project Structure
-
-Achatbot.py      # Main Python script containing the chatbot logic
+```
+AI_Chatbot_using_nltk.py      # Main Python script containing the chatbot logic
+```
 ### 🚀 Getting Started
 
 🔹 Prerequisites
@@ -34,7 +35,7 @@ pip install nltk
 ```
 🔹 Run the chatbot
 ```
-python chatbot.py
+python AI_Chatbot_using_nltk.py
 ```
 You will see a prompt like:
 ```
